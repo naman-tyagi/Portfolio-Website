@@ -533,7 +533,7 @@ img {
   .home__img {
     position: static;
     transform: none;
-    margin-top: 1rem;
+    margin-top: auto;
      margin-left: auto;
     margin-right: auto;/* Adjust this value as needed */
   }
@@ -548,6 +548,6 @@ img {
   }
   
   .home__download {
-    margin-top: 1rem; /* Adjust this value as needed */
+    margin-top: auto; /* Adjust this value as needed */
   }
 }
