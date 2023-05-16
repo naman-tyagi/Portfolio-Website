@@ -533,7 +533,9 @@ img {
   .home__img {
     position: static;
     transform: none;
-    margin-top: 2rem; /* Adjust this value as needed */
+    margin-top: 1rem;
+     margin-left: auto;
+    margin-right: auto;/* Adjust this value as needed */
   }
   
   .home__social {
