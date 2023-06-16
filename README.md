@@ -1,4 +1,3 @@
 # Portfolio-Website
-Portfolio website using HTML, CSS &amp; JS. 
-This website design is completely responsive for all screen  devices like mobile phones and windows. 
-The aim of this website is to create a webpage for marketing  purposes for an individual
+Portfolio website using HTML, CSS & JS. 
+Utilized modern web design techniques to ensure seamless user experience across different devices and screen sizes. Organized information in a clear and concise manner, utilizing sections like About Me, Skill Showcase, Certifications, and Contact Information. 
